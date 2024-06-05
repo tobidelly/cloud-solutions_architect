@@ -1,10 +1,5 @@
 # Core Architectural Components of Azure: A Comprehensive Guide
 
-<div style="text-align: center;">
-  ![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/7330d08f-b563-4c71-892d-762eeabc79f3)
-</div>
-
-
 ![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/7330d08f-b563-4c71-892d-762eeabc79f3)
 
 
