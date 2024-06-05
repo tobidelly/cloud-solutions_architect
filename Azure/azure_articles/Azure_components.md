@@ -52,7 +52,7 @@ Azure management groups provide a level of scope above subscriptions. You organi
 In conclusion, the core architectural components of Azure include Azure regions, availability zones, Azure Resource Manager, resource groups, subscriptions, and management groups. These components work together to provide high availability, scalability, and manageability for Azure applications and services. Understanding these components is crucial for building and deploying scalable and reliable applications on the Azure platform.
 
 
-## Citations:
+### Ref:
 [1] https://faun.pub/core-architectural-component-of-azure-1a2da1b2f909?gi=42f4374e9209
 [2] https://cloudacademy.com/blog/understanding-core-azure-architectural-components/
 [3] https://k21academy.com/microsoft-azure/architect/azure-availability-zones-and-regions/
