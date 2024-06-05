@@ -1,5 +1,8 @@
 # Core Architectural Components of Azure: A Comprehensive Guide
 
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/7330d08f-b563-4c71-892d-762eeabc79f3)
+
+
 Azure is a robust cloud computing platform that offers a wide range of services and tools to support the development and deployment of scalable and reliable applications. At the heart of Azure's architecture are several core components that work together to provide high availability, scalability, and manageability. In this blog, we will explore the core architectural components of Azure, including Azure regions, availability zones, Azure Resource Manager, resource groups, subscriptions, and management groups.
 
 **Azure Regions**
