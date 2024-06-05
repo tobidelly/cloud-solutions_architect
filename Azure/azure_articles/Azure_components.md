@@ -1,8 +1,8 @@
-Core Architectural Components of Azure: A Comprehensive Guide
+# Core Architectural Components of Azure: A Comprehensive Guide
 
 Azure is a robust cloud computing platform that offers a wide range of services and tools to support the development and deployment of scalable and reliable applications. At the heart of Azure's architecture are several core components that work together to provide high availability, scalability, and manageability. In this blog, we will explore the core architectural components of Azure, including Azure regions, availability zones, Azure Resource Manager, resource groups, subscriptions, and management groups.
 
-Azure Regions
+**Azure Regions**
 
 Azure regions are geographic locations where Microsoft Azure operates data centers. These regions provide organizations with the flexibility to deploy their resources in specific regions for performance optimization, compliance, and availability purposes. Each region is a set of data centers deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network. With more global regions than any other cloud provider, Azure gives customers the flexibility to deploy applications where they need to. Azure is generally available in 52 regions around the world, with plans announced for 6 additional regions
 
