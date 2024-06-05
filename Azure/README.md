@@ -1,3 +1,3 @@
-**Microsoft Azure Cloud Services **
+# Microsoft Azure Cloud Services
 
-1. Core Architectural Components of Azure
+*1. Core Architectural Components of Azure**
