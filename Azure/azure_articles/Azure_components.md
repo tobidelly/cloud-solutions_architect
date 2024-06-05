@@ -35,9 +35,15 @@ Resource groups are logical containers in Azure that hold related Azure resource
 
 **Subscriptions**
 
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/c22bdd72-9fda-4ab4-ba11-4008e5095d74)
+
+
 In Azure, subscriptions are a unit of management, billing, and scale. To create and use Azure services, you need an Azure subscription which is linked with an Azure account, which is an identity in Azure Active Directory (Azure AD). After you've created an Azure account, you're free to create additional subscriptions. A company might use a single Azure account for your business and separate marketing, and sales departments.
 
 **Management Groups**
+
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/587e954f-4889-4962-ae73-3dc8511109ef)
+
 
 Azure management groups provide a level of scope above subscriptions. You organize subscriptions into containers called management groups and apply governance conditions to the management groups. For a company dealing with multiple applications, multiple development teams, in multiple geographies, and having many subscriptions, you might need a way to efficiently manage access, policies, and compliance for those subscriptions. Azure management groups provide a way to do this.
 
