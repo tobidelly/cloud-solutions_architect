@@ -7,17 +7,29 @@ Azure is a robust cloud computing platform that offers a wide range of services 
 
 **Azure Regions**
 
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/5e537442-05e0-4ef7-a1a2-70fbc5cf614d)
+
+
 Azure regions are geographic locations where Microsoft Azure operates data centers. These regions provide organizations with the flexibility to deploy their resources in specific regions for performance optimization, compliance, and availability purposes. Each region is a set of data centers deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network. With more global regions than any other cloud provider, Azure gives customers the flexibility to deploy applications where they need to. Azure is generally available in 52 regions around the world, with plans announced for 6 additional regions
 
 **Azure Availability Zones**
+
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/df772698-a585-4c58-80f5-918938a26d5a)
+
 
 Azure Availability Zones are unique physical locations within an Azure region. Each zone is made up of one or more data centers equipped with independent power, cooling, and networking infrastructure. The physical separation of Availability Zones within a region protects applications and data from datacenter failures. Zone-redundant services replicate applications and data across Azure Zones to protect from single-points-of-failure. Not every region has support for Availability Zones, but examples of regions with Availability Zones include Central US, East US 2, West US 2, West Europe, France Central, North Europe, and Southeast Asia
 
 **Azure Resource Manager**
 
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/f756fd47-91e5-4311-b1cd-daa2d7b541d5)
+
+
 Azure Resource Manager (ARM) is a tool that lets you work with all the underlying resources that are part of a solution as a group. With ARM, you can deploy, update, and even delete all resources that form a solution in a single, coordinated operation. ARM also allows you to use templates to streamline deployments. Such templates can be used to uniformly deploy separate environments, such as development, staging, and production. Resource Manager provides a consistent management layer for all Azure resources, security and auditing features, as well as tagging features that you can use to manage your resources once they've been deployed into Azure[2].
 
-**Resource Groups**
+**Resource Groups** 
+
+![image](https://github.com/tobidelly/cloud-solutions_architect/assets/111124314/0f525f31-1aa0-4a54-b264-96f489681033)
+
 
 Resource groups are logical containers in Azure that hold related Azure resources that are part of a larger Azure solution. These resource groups can host all resources that comprise an overall Azure solution, or they can also host just the resources that need to be managed as part of a group. The administrator gets to decide, based on needs, how to allocate resources in resource groups within Azure. When working with Azure resource groups, there are a few things to consider. First and foremost, since all resources within a single resource group usually share a similar lifecycle, it's important to determine the lifecycle of the resources you plan to place in a single resource group.
 
